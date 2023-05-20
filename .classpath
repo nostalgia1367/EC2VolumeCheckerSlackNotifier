@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="aws-core-2.17.230.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk-ec2-1.12.472.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk-models-1.12.472.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk-iam-1.12.472.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk-ssm-1.11.104.jar"/>
+	<classpathentry kind="lib" path="aws-java-sdk-core-1.12.472.jar"/>
+	<classpathentry kind="lib" path="sdk-core-2.20.69.jar"/>
+	<classpathentry kind="lib" path="regions-2.20.69.jar"/>
+	<classpathentry kind="lib" path="slack-api-client-1.29.2.jar"/>
+	<classpathentry kind="lib" path="slack-api-model-1.29.2.jar"/>
+	<classpathentry kind="lib" path="slack-app-backend-1.27.2.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="aws-query-protocol-2.20.69.jar"/>
+	<classpathentry kind="lib" path="ec2-2.20.69.jar"/>
+	<classpathentry kind="lib" path="auth-2.20.69.jar"/>
+	<classpathentry kind="lib" path="aws-core-2.20.69.jar"/>
+	<classpathentry kind="lib" path="aws-json-protocol-2.20.69.jar"/>
+	<classpathentry kind="lib" path="metrics-spi-2.20.69.jar"/>
+	<classpathentry kind="lib" path="profiles-2.20.69.jar"/>
+	<classpathentry kind="lib" path="protocol-core-2.20.69.jar"/>
+	<classpathentry kind="lib" path="sfn-2.20.69.jar"/>
+	<classpathentry kind="lib" path="endpoints-spi-2.20.69.jar"/>
+	<classpathentry kind="lib" path="commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
